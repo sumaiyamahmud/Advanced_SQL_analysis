@@ -15,7 +15,7 @@ Download csv files [here](https://github.com/sumaiyamahmud/Advanced_SQL_analysis
 
 ## Exploratory Data Analysis (EDA)
 
-Open the word file [here](https://github.com/sumaiyamahmud/Advanced_SQL_analysis/blob/main/SQL%20queries.docx to view the analysis)
+Open the word file [here](https://github.com/sumaiyamahmud/Advanced_SQL_analysis/blob/main/SQL%20queries.docx) to view the analysis results.
 
 ## References
 
