@@ -11,13 +11,14 @@ Software: SQL Server Management Studio
 
 ## Data Source
 
-Download csv files here: https://github.com/sumaiyamahmud/Advanced_SQL_analysis/blob/main/csv.zip
+Download csv files [here](https://github.com/sumaiyamahmud/Advanced_SQL_analysis/blob/main/csv.zip)
 
 ## Exploratory Data Analysis (EDA)
 
-Open the word file [here]https://github.com/sumaiyamahmud/Advanced_SQL_analysis/blob/main/SQL%20queries.docx to view the analysis.
+Open the word file [here](https://github.com/sumaiyamahmud/Advanced_SQL_analysis/blob/main/SQL%20queries.docx to view the analysis)
 
 ## References
 
 https://www.youtube.com/watch?v=FNYdBLwZ6cE 
+
 https://learnsql.com/blog/25-advanced-sql-query-examples/ 
